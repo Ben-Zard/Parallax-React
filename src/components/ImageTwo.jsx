@@ -8,5 +8,5 @@ const ImageTwo = () => (
         </div>
     </Parallax>
 );
-
+ 
 export default ImageTwo

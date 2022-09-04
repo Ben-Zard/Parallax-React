@@ -7,5 +7,5 @@ const ImageThree = () => (
         </div>
     </Parallax>
 );
-
+ 
 export default ImageThree

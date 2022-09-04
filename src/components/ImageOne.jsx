@@ -6,6 +6,6 @@ const ImageOne = () => (
             <span className="img-txt">Find love in Nature</span>
         </div>
     </Parallax>
-);
+); 
 
 export default ImageOne
